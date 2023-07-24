@@ -1,0 +1,74 @@
+20230411	13:31:38	f66209da-8681-4919-9aa5-2baef39c676c	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/favicon.ico	undefined
+20230412	17:26:00	db3ba60a-ed58-4b9f-8d7c-c91e653045cd	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	POST	/auth/login	undefined
+20230412	17:33:39	e4819a5e-9ccd-4c5c-b9fb-102c7b735979	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	POST	/	undefined
+20230423	19:14:43	f56a7a57-ffdb-40fb-908c-6bd02010ff1d	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/favicon.ico	undefined
+20230429	21:00:15	1e601c40-265b-48a1-aa2f-603b91ca5ee0	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/auth/refrech	undefined
+20230429	21:00:16	c76265ad-b734-4afe-b6cd-70f9d664b763	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/favicon.ico	undefined
+20230430	20:38:17	651ff727-b353-4528-ab5a-019d12a199d5	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/cart/	undefined
+20230430	20:49:36	2ffc613b-e63a-40ac-a796-7021e74e3191	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/cart	undefined
+20230430	20:49:41	4cc7c5ad-4df3-4c41-a9fb-224c82f87e8f	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/cart	undefined
+20230430	20:52:56	b8d23920-cf9c-48c5-99c1-5f480bd3d42a	SyntaxError: Unexpected token a in JSON at position 16	GET	/cart	undefined
+20230430	20:54:23	dc91c172-a88b-428a-8180-01a323be09f8	SyntaxError: Unexpected token a in JSON at position 16	GET	/cart	undefined
+20230430	21:04:23	dc343c50-2687-4ad7-bda8-13e101192409	SyntaxError: Unexpected token a in JSON at position 16	GET	/cart	undefined
+20230507	21:45:45	d886d2d6-47eb-48e1-9c16-5c11bdd0805a	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/favicon.ico	undefined
+20230516	21:32:46	0e9ab344-3fdc-4553-a783-de4db5b43d79	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230516	22:52:17	5f902b06-7869-4e5a-a2ca-3efebe40eb86	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230516	22:56:09	fe075671-27b6-48fe-aceb-8789a145b2e6	TypeError: Cannot destructure property 'image' of 'req.file' as it is undefined.	POST	/prodact	http://localhost:3000
+20230516	22:58:05	63337aff-7be5-409f-8289-b7d2c06a8ea7	ReferenceError: image is not defined	POST	/prodact	http://localhost:3000
+20230516	23:45:15	f800d777-3c96-490d-8e8e-21647030883f	ReferenceError: image is not defined	POST	/prodact	http://localhost:3000
+20230516	23:54:52	e08fc673-2e24-4998-b11b-b920e473a2e5	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	POST	/prodact	http://localhost:3000
+20230516	23:58:09	b134ce79-8452-4eb5-a036-c7351faaa1f8	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	POST	/prodact	http://localhost:3000
+20230517	00:00:40	97f3ab04-ea3d-4613-8c46-5a93ade1bee9	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	POST	/prodact	http://localhost:3000
+20230517	00:04:21	2f180d6e-aa7d-44f4-8de0-b621513ed4f6	TypeError: Cannot read properties of undefined (reading 'originalname')	POST	/prodact	http://localhost:3000
+20230517	00:06:31	3febf58a-71c0-416b-b371-66125c4b66c9	TypeError: Cannot read properties of undefined (reading 'name')	POST	/prodact	http://localhost:3000
+20230517	10:57:09	c723782a-525c-4f56-b811-34aa71719e9a	TypeError: Cannot read properties of undefined (reading 'name')	POST	/prodact	http://localhost:3000
+20230517	11:33:56	6761c53b-496c-4e1b-9b3e-1bcac567b58d	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230517	11:38:18	520a2737-9a41-4cc8-a84c-7c906c94ef2a	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230517	11:49:57	e5e22d0e-77cf-475f-9337-e0008ca01d63	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230517	12:04:50	14e9c533-faee-4cfe-b002-4ff5e65511d6	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230517	13:38:16	ed137cfa-3a96-436c-bbcd-ab15a24bf864	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230517	13:40:58	c7212a38-e3f2-4640-b86e-0b3e74163db5	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230518	23:41:32	c6412a89-ce08-43fb-ab21-9c7ccb019395	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230518	23:44:39	dfbb1d59-f3a0-495a-a553-693b586990c2	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230518	23:51:54	05ddfc7e-66fa-4dd1-bce5-489de29dbbed	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230518	23:59:01	86747ec7-51fe-4e4c-9948-6d0a4b1f80e2	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230519	16:06:00	6fbcfc3e-d116-4856-9a73-b394f058d62d	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230520	23:57:38	5987d89b-32bb-4951-a791-69cdcd5d14cb	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	00:08:16	bb1f0c41-7813-478d-b548-a7b6de50e504	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	11:22:56	7591ba0f-f9ab-402a-a91b-d93a8ee0d272	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	11:25:23	08e9b539-ccff-4814-9256-574b147fd5e5	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	11:33:03	3f8934ef-948f-4796-b21f-ec97538a3631	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	11:37:23	00a08059-d818-4b5c-9a36-30298b046693	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	15:08:06	c307ba8f-ceb5-4b47-9959-f81330f3945d	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	15:13:10	9493a52f-d605-4ccd-ad26-4e87bbbf809d	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	15:29:22	3d635a9b-16b4-4bae-83dc-9abf850b3dea	TypeError: Cannot read properties of undefined (reading 'name')	POST	/prodact	http://localhost:3000
+20230521	15:30:10	5ced448c-3a03-4a73-a0b1-3da39cac8c37	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	15:32:36	66394c43-7bfc-4408-8a43-1d3632cb7577	TypeError: Cannot read properties of undefined (reading 'file')	POST	/prodact	http://localhost:3000
+20230521	15:35:05	fddd1722-8f79-427c-bea3-a2a4a17b74b0	TypeError: Cannot read properties of undefined (reading 'file')	POST	/prodact	http://localhost:3000
+20230521	15:36:47	a5ddb4cd-d431-4678-9555-3dbf6f5bd2d9	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	15:38:38	3801077e-82bc-4640-b4a7-8910b217cb0b	TypeError: Cannot read properties of undefined (reading 'buffer')	POST	/prodact	http://localhost:3000
+20230521	15:41:23	d7e77b79-a647-4577-9618-700d0b6eec56	ReferenceError: filename is not defined	POST	/prodact	http://localhost:3000
+20230521	15:42:25	3481d029-f404-4812-bf02-5d49edb78977	ReferenceError: image is not defined	POST	/prodact	http://localhost:3000
+20230521	15:43:42	7e08c2cb-a8ca-439a-83a2-843716bcc70e	TypeError: Cannot destructure property 'image' of 'req.file' as it is undefined.	POST	/prodact	http://localhost:3000
+20230521	18:22:49	f76ed25a-8017-4f7e-b82f-b37ff62d3114	TypeError: Cannot destructure property 'image' of 'req.file' as it is undefined.	POST	/prodact	http://localhost:3000
+20230521	18:31:43	dffe7dad-1659-4641-a29b-742e28c0df5b	TypeError: Cannot destructure property 'image' of 'req.file' as it is undefined.	POST	/prodact	http://localhost:3000
+20230521	18:49:53	c3b5e035-ac23-41c8-a0b2-b16a55b64e1f	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/cart/undefined	http://localhost:3000
+20230521	19:45:13	0f31a664-97f5-4928-9db5-d7f82a713381	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	19:48:11	8f8d9895-fa5e-49bf-97cf-49f7d564ef25	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	19:55:59	d12f1a63-39ee-4fcc-913d-2340a62798d4	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	19:56:35	0e6f76c9-48ea-4a05-a641-a31b7b20cc2f	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	19:56:50	b0fefaa4-6993-4416-b74d-d0d404819825	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	19:59:53	648bbd75-4f78-457c-9726-db12654c591d	ReferenceError: fieldName is not defined	POST	/prodact	http://localhost:3000
+20230521	20:02:00	f42e1fd6-b41c-42cc-8e43-b6bb4475598d	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	20:07:03	134f72eb-c1e5-4d58-848a-88ba4c16168a	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	20:08:03	e905405e-eac1-40db-aa1b-bc1413806ed3	TypeError: Cannot read properties of undefined (reading 'filename')	POST	/prodact	http://localhost:3000
+20230521	23:38:08	1bc2286a-3838-4366-8382-34df26380c37	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230521	23:56:59	b57ab737-770e-417c-b247-8cc8b58021e4	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230522	00:05:20	bbfdac08-3454-4e16-bbcb-f3070bb0fc21	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230522	00:14:01	4c48f831-6b6b-4c6b-a175-1a95d1ca591d	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230522	10:46:56	4b8f2c74-d78d-4a54-917c-176f0fbb9986	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230522	10:48:23	9ee650b4-c438-4751-a76e-3920726f685e	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230522	10:57:25	3b423b59-c888-48b1-8c1d-fed72e1c0c3f	Error: Multipart: Boundary not found	POST	/prodact	http://localhost:3000
+20230522	19:33:02	1bea18e0-ad1b-4ce7-a5e6-e9530cff99a1	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/cart/undefined	http://localhost:3000
+20230526	23:44:54	7c5f24ab-f943-463e-9fb0-a462e53854da	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/cart/undefined	http://localhost:3000
+20230528	15:39:24	eb90d70e-f479-491a-a0bf-a02de7a2ab69	Error: ENOENT: no such file or directory, stat 'C:\projects\menoo\views\404.html'	GET	/favicon.ico	undefined
